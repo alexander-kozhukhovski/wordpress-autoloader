@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!composer.json
+!class-wp-autoloader.php
+!.editorconfig
+!phpcs.xml.dist
